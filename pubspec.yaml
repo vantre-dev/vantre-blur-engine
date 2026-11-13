@@ -1,0 +1,19 @@
+name: vantre_blur_engine
+description: On-device detection and redaction engine behind Vantre Blur for Android.
+version: 1.0.0
+publish_to: none
+
+environment:
+  sdk: ^3.12.2
+  flutter: ">=3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_image_compress: ^2.5.0
+  image: ^4.9.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
