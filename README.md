@@ -1,5 +1,9 @@
 # Vantre Blur Engine
 
+[![Vantre_Blur v1.1.27](https://img.shields.io/badge/Vantre_Blur-v1.1.27-111315)](https://play.google.com/store/apps/details?id=com.getvantre.blur)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
+[![Android](https://img.shields.io/badge/Android-API_26+-green.svg)](https://developer.android.com)
+
 The detection rules and redaction code behind [Vantre Blur](https://getvantre.com/products/screenshot-blur/) for Android, which hides faces, names, card numbers and other private details in screenshots and photos before you share them.
 
 Everything runs on the device. This package has no network code.
